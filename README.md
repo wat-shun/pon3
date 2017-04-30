@@ -6,5 +6,7 @@
 ブログ記事：<http://w-shunn.hatenablog.com/entry/2017/04/30/212149>
 
 ## 素材出典（敬称略）
+素材は各サイトのライセンスに従い再配布しています。利用の際は各サイトのライセンスに従ってください。
+
 - [ぴぽや倉庫](http://piposozai.blog76.fc2.com/)
 - [M+ FONTS](https://mplus-fonts.osdn.jp/)
