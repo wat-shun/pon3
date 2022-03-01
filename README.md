@@ -2,9 +2,6 @@
 [Unity 1週間ゲームジャム](https://unityroom.com/unity1weeks)に参加して作成したゲームです。
 プレイは[こちら](https://unityroom.com/games/pon3)。
 
-## 参考 
-ブログ記事：<http://w-shunn.hatenablog.com/entry/2017/04/30/212149>
-
 ## 素材出典（敬称略）
 素材は各サイトのライセンスに従い再配布しています。利用の際は各サイトのライセンスに従ってください。
 
